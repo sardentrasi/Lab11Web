@@ -1,3 +1,4 @@
+
 Fajar Arif Riyanto  
 311910666  
 TI 19 B2
@@ -29,3 +30,4 @@ Lengkapi kode program untuk menu lainnya yang ada pada Controller Page, sehingga
 Membuat controller untuk page artikel dan kontak.  
     ![gambar7](readme/7.png)  
     ![gambar9](readme/8.png)
+
